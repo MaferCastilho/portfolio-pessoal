@@ -39,13 +39,13 @@ A nossa plataforma busca trazer diversos filme e séries, que muitas vezes temos
 
 ## 📃Fontes consultadas 
 
-🔹https://teams.microsoft.com/l/message/19:09a49861f9d948188da4368e326bf458@thread.v2/1692712386259?context=%7B%22contextType%22%3A%22chat%22%7D
+🔹[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
-🔹https://www.alura.com.br/artigos/escrever-bom-readme
+🔹[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
 ## ✒️Autores
 
 🤍Mafer  
-🖤Jana  
-💗Iris  
+🖤[Jana](https://github.com/janapaulinoo)   
+💗[Iris](https://github.com/iriscarolina)  
 

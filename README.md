@@ -32,10 +32,10 @@ A nossa plataforma busca trazer diversos filme e séries, que muitas vezes temos
 
 ### 💻Tecnologias utilizadas
 
-🔸Github
-🔸HTML
-🔸VScode
-🔸Bootstrap
+🔸Github  
+🔸HTML  
+🔸VScode  
+🔸Bootstrap  
 
 ## 📃Fontes consultadas 
 
@@ -45,7 +45,7 @@ A nossa plataforma busca trazer diversos filme e séries, que muitas vezes temos
 
 ## ✒️Autores
 
-🤍Mafer
-🖤Jana
-💗Iris
+🤍Mafer  
+🖤Jana  
+💗Iris  
 
